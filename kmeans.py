@@ -1,6 +1,3 @@
-# Tim Jarvis
-# Assignment 5 - K-Means Clustering
-# Due Date: 7/3/2022
 
 import math
 from matplotlib import pyplot as plt
